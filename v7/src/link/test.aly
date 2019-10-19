@@ -1,0 +1,15 @@
+{
+  LinearLayout;
+  layout_width="-1";
+  --layout_height="50dp";
+  orientation="horizontal";
+  gravity="center";
+  {
+    ProgressBar;
+  };
+  {
+    TextView;
+    text="正在加载";
+    textSize="20dp";
+  };
+};

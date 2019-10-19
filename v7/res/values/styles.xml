@@ -1,0 +1,25 @@
+<resources> 
+
+<style name="alittlemc_theme" parent="android:Theme.DeviceDefault.Light.NoActionBar.TranslucentDecor">
+	<item name="android:colorAccent">#FFE91E63</item>
+</style>
+
+<style name="Theme_Google" parent="alittlemc_theme">
+	<item name="android:colorAccent">#FFE91E63</item>
+	<item name="android:colorPrimaryDark">#FFE91E63</item>
+	<item name="android:colorPrimary">#FFE91E63</item>
+</style>
+
+<style name="Theme_Red" parent="alittlemc_theme">
+	<item name="android:colorAccent">#FFF44336</item>
+	<item name="android:colorPrimaryDark">#FFF44336</item>
+	<item name="android:colorPrimary">#FFF44336</item>
+</style>
+
+<style name="Theme_Pink" parent="alittlemc_theme">
+	<item name="android:colorAccent">#FFFF82AB</item>
+	<item name="android:colorPrimaryDark">#FFFF82AB</item>
+	<item name="android:colorPrimary">#FFFF82AB</item>
+</style>
+
+</resources>
